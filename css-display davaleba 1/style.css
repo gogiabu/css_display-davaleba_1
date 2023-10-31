@@ -1,0 +1,26 @@
+body{
+    background-color: #daa520;
+    margin: 0%;
+}
+div{
+    width: 365px;
+    height: 365px;
+    margin-top: 32px;
+    margin-left: 32px;
+    border: none;
+}
+.box1{
+    background-color:#297E40;
+    border-radius: 12px;
+    display: inline-block;
+}
+.box2{
+    background-color:#8E2877;
+    border-radius: 90px;
+    display: inline-block;
+}
+.box3{
+    background-color: #361BA4;
+    border-radius: 20px;
+    display: inline-block;
+}
